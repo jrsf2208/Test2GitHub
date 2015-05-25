@@ -1,8 +1,6 @@
 package test2GitHub;
 
-/**
- * Created by Ritzman on 5/24/2015.
- */
+// changed text
 public class Test2GitHub {
 
     public static void main (String args[]){
